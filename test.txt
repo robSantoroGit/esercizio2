@@ -3,3 +3,4 @@ ciao2
 ciao3
 featureBranch
 modifica master
+conflictBranch
